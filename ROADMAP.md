@@ -100,7 +100,7 @@ Priority initiatives for the first quarter:
 ## Revenue Milestones
 
 | Period | Target MRR | Target ARR | Customers | Key Focus |
-|--------|-----------|-----------|-----------|-----------|
+|--------|-----------|-----------|-----------|----------|
 | Month 1 | $2K | $24K | 50 | Beta validation |
 | Month 3 | $5K | $60K | 100 | Product refinement |
 | Month 6 | $15K | $180K | 200 | Early traction |
